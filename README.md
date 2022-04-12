@@ -11,6 +11,7 @@
 ## ⚙ Ajustes e melhorias
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 
+- [ ] Melhorias no design
 - [ ] Responsividade
 - [ ] Animações
 - [ ] PWA
